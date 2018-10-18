@@ -1,0 +1,11 @@
+Welcome to our experiment.
+
+Please write the instruction here.
+
+If you need more than one screen to display the instruction, separate it with "#".
+
+Press '1' to continue reading.
+#
+Here is the second page.
+
+Please remain still in the scanner, press '1' to start the task.
